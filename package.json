@@ -1,0 +1,32 @@
+{
+  "name": "adventofcode2020",
+  "version": "1.0.0",
+  "description": "My code for AoC2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarthaktexas/adventofcode2020.git"
+  },
+  "keywords": [
+    "advent",
+    "of",
+    "code",
+    "advent",
+    "of",
+    "code",
+    "challenge",
+    "competition"
+  ],
+  "author": "Sarthak Mohanty <sarthaktexas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarthaktexas/adventofcode2020/issues"
+  },
+  "homepage": "https://github.com/sarthaktexas/adventofcode2020#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
