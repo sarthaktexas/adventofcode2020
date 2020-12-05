@@ -1,3 +1,4 @@
+require('colors');
 const fs = require('fs');
 
 let filename = 'filename.txt'
